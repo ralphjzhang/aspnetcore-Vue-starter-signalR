@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 
 
-namespace Vue2SpaSignalR.Services.Hubs
+namespace Mars.Services.Hubs
 {
     public class WeatherHub : Hub
     {
@@ -22,7 +22,7 @@ namespace Vue2SpaSignalR.Services.Hubs
         private IHubClients Clients { get; }
 
         private static readonly string[] Summaries = {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Ralph", "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         public async Task UpdateWeatherForecasts()

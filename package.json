@@ -1,6 +1,6 @@
 {
-  "name": "aspnetcore-vuejs",
-  "description": "ASP.NET Core & VueJS Starter project",
+  "name": "mars",
+  "description": "Mars with ASP.NET Core & VueJS, SignalR",
   "author": "Mark Pieszak",
   "scripts": {
     "dev": "cross-env ASPNETCORE_ENVIRONMENT=Development NODE_ENV=development dotnet run",

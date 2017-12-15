@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Vue2SpaSignalR.Controllers
+namespace Mars.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace Vue2SpaSignalR
+namespace Mars
 {
     public class Program
     {

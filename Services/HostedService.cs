@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Hosting;
 
-namespace Vue2SpaSignalR.Services
+namespace Mars.Services
 {
     public abstract class HostedService : IHostedService
     {

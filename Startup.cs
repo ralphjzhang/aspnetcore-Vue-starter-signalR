@@ -4,9 +4,9 @@ using Microsoft.AspNetCore.SpaServices.Webpack;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Vue2SpaSignalR.Services.Hubs;
+using Mars.Services.Hubs;
 
-namespace Vue2SpaSignalR
+namespace Mars
 {
     public class Startup
     {

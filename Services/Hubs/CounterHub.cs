@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR;
 
-namespace Vue2SpaSignalR.Services.Hubs
+namespace Mars.Services.Hubs
 {
     public class CounterHub : Hub
     {
